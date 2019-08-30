@@ -2,3 +2,5 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
+
+My name is minsu1017
